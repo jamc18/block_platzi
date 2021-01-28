@@ -1,12 +1,10 @@
  hol que hacen 
 estoy estuduiando
 mañana nos enfocaremos es su vida laboral
-<<<<<<< HEAD
+
  master 1
  master 2
  
-expe1
-=======
-expe1
-expe2
->>>>>>> f0643f2 (expe2)
+ expe1
+ expe2
+
