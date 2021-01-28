@@ -1,2 +1,3 @@
 # block_platzi
-practica final de platzi sin errores , espero
+*practica final de platzi sin errores , espero
+* creado por jordan
